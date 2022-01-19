@@ -8,16 +8,16 @@
       }
     },
     "color": {
-      "value": ["#dc052d"]
+      "value": ["#5b1db2"]
     },
     "shape": {
       "type": "polygon",
       "stroke": {
-        "width": 0,
-        "color": "#000000"
+        "width": 0.5,
+        "color": "#6f2bcd"
       },
       "polygon": {
-        "nb_sides": 4
+        "nb_sides": 6
       }
     },
     "opacity": {
