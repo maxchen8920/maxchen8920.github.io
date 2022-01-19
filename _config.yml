@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Welcome
+title: Max's Page
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -11,10 +11,10 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Max Chen
+username: Max
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Enjoy your stay!
+typing_text: Welcome to my site!
 # email: Your E-Mail address for the email button.
 email: maxchen8920@gmail.com
 # For every social button you want to display, set your username or userid
