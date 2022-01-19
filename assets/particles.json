@@ -17,7 +17,7 @@
         "color": "#6f2bcd"
       },
       "polygon": {
-        "nb_sides": 1
+        "nb_sides": 8
       }
     },
     "opacity": {
@@ -45,7 +45,7 @@
     },
     "move": {
       "enable": true,
-      "speed": 1,
+      "speed": 2,
       "direction": "bottom",
       "random": true,
       "straight": false,
