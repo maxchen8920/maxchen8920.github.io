@@ -13,8 +13,8 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Prediction of Lung Function Decline (Kaggle Competition)[https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression]
-  descr: "Team submission to the OSIC Pulmonary Fibrosis Progression Kaggle Competition, achieving top 8% out of 2000+ teams. The model uses age, sex, smoking status and forced vital capacity. The project includes data analysis and pre-processing."
+- name: Prediction of Lung Function Decline (Kaggle Competition)
+  descr: "Team submission to the OSIC Pulmonary Fibrosis Progression Kaggle Competition (https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression), achieving top 8% out of 2000+ teams. The model uses age, sex, smoking status and forced vital capacity. The project includes data analysis and pre-processing."
   demo: https://github.com/maxchen8920/OSIC-Pulmonary-Fibrosis-Progression-Notebook
   tags:
     - tag: Python
