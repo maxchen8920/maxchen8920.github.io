@@ -5,29 +5,23 @@
 # - name: Git
 #   weight: 5
 
-- name: Python
-  weight: 5
-
-- name: Java
-  weight: 5
-
-- name: Flask
-  weight: 4
-
 - name: scikit-learn
   weight: 5
   
 - name: PyTorch
   weight: 4
 
-- name: C
-  weight: 3
-
-- name: C++
-  weight: 3
-
 - name: PostgreSQL
   weight: 3
 
 - name: SQLite
   weight: 5
+
+- name: Jira
+  weight: 4
+  
+- name: Neural Networks
+  weight: 3
+
+- name: Algorithms
+  weight: 4
