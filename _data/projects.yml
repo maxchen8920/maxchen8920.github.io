@@ -13,21 +13,36 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Prediction of Lung Function Decline (Kaggle Competition)[https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression]
+  descr: "Team submission to the OSIC Pulmonary Fibrosis Progression Kaggle Competition, achieving top 8% out of 2000+ teams. The model uses age, sex, smoking status and forced vital capacity. The project includes data analysis and pre-processing."
+  demo: https://github.com/maxchen8920/OSIC-Pulmonary-Fibrosis-Progression-Notebook
   tags:
     - tag: Python
-    - tag: Django
+    - tag: scikit-learn
+    - tag: Data Pre-processing
+    - tag: Linear Regression
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Hybrid Movie Recommender
+  descr: "This movie recommender combines collaborative filtering and content-based filtering techniques to produce movie recommendations for a specific movie. It accounts for user ratings, genres and tags. Testing shows that the recommender performs quite well despite a relatively small dataset (https://grouplens.org/datasets/movielens/)."
+  demo: https://github.com/maxchen8920/Hybrid-Movie-Recommender
+  tags:
+    - tag: Python
+    - tag: scikit-learn
+
+- name: Exploration of Heteroscedasticity in GarageArea for Housing-Prices
+  descr: "This project is an analysis of heteroscedasticity in a housing prices dataset (https://www.kaggle.com/c/house-prices-advanced-regression-techniques), and techniques for removing heteroscedasticity."
+  demo: https://github.com/maxchen8920/Exploration-of-Heteroscedasticity-in-GarageArea-for-Housing-Prices
+  tags:
+    - tag: Python
+    - tag: scikit-learn
+    - tag: Data Pre-processing
+    - tag: Linear Regression
+    - tag: Random Forest
+
+- name: ResNet-18 Implementation from Scratch
+  descr: "This project is a custom implementation of convolutional neural network 'ResNet-18'. This was coded for the use in a image classification task with a small dataset and small images, as ResNet-18 provided a deep enough neural network for image classification, but the low image complexity didn't require a neural network that was too deep such as ResNet-50. This was used in conjunction with image pre-processing such as flipping, rotation, RandomPerspective and ColorJitter."
+  demo: https://github.com/maxchen8920/ResNet-18-Variation
+  tags:
+    - tag: Python
+    - tag: PyTorch
+    - tag: Neural Networks
